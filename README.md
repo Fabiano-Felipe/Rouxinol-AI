@@ -1,4 +1,4 @@
-# 🎵 Rouxinol.ai
+# Rouxinol.ai
 
 > **AI-Powered Voice Interface for Complete Desktop Control**
 
@@ -162,5 +162,6 @@ If Rouxinol.ai is useful to you, please consider:
 ---
 
 *Rouxinol.ai — Let your voice be the only interface you need.*
+*Made by Labirinto AI*
 
 *Made with 🎵 by [Labirinto.ai](https://labirinto.ai)*
