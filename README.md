@@ -142,7 +142,7 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for more information
 
 | Channel | Link |
 |---|---|
-| 🌐 Website | [labirinto.ai](https://labirinto.ai) |
+| 🌐 Website | [rouxinol.labirinto.ai](https://labirinto.ai) |
 | 🐦 Twitter / X | [@labirinto_ai](https://twitter.com/labirinto_ai) |
 | 💬 Discord | [Join our community](https://discord.gg/labirinto) |
 | 📧 Email | rouxinol@labirinto.ai |
@@ -162,6 +162,4 @@ If Rouxinol.ai is useful to you, please consider:
 ---
 
 *Rouxinol.ai — Let your voice be the only interface you need.*
-*Made by Labirinto AI*
-
-*Made with 🎵 by [Labirinto.ai](https://labirinto.ai)*
+*Made by [Labirinto.ai](https://labirinto.ai)*
